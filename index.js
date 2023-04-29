@@ -194,7 +194,6 @@ function main() {
       winDoc.close();
       window.location.replace("https://google.com/");
     }
-    window.alert("Click this alert to go into about:blank", null, openAb);
   }
 
 }
